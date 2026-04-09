@@ -23,7 +23,7 @@ opcion_anterior = None
 contador_seleccion = 0
 bloqueado = False
 
-print("Bienvenido")
+print("Bienvenido al Escape Room: La Bóveda")
 
 print("Sos un agente que intenta abrir una bóveda con 3 cerraduras. Tenés energía y tiempo limitados. Si abrís las 3 cerraduras antes de quedarte sin energía o sin tiempo, ganás.") 
 
