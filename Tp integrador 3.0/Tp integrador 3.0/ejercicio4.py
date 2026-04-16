@@ -101,7 +101,7 @@ while (energia > 0 and tiempo > 0 and cerraduras_abiertas < 3 and bloqueado == F
         bloqueado = True
 
 if cerraduras_abiertas == 3:
-    print("Has ganado el juego")
+    print("Has escapado de la Boveda! Felicitaciones! ")
 else:
     print("Game over")
 
